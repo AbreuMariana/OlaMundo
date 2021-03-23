@@ -1,2 +1,3 @@
 # OlaMundo
- primeiro repositorio 
+ Eu estou aprendendo
+ Uma hora eu chego lá
